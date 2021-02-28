@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584380610 source:e:\programming\projects c++\bmi fitness calculator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<string>
+	<fstream>
+
